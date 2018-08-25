@@ -1,5 +1,8 @@
 # flowcharts-testing
 
+<script src="https://flowchart.js.org/flowchart-latest.js"></script>
+
+
 
 ```mermaid
 graph LR
